@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package cat.institutmvm.AP2;
+package PracticaJava10;
 
 import java.util.Scanner;
 
@@ -19,7 +19,6 @@ public class PracticaJava10 {
     private final static String MSG2 = "El número introducido es: ";
 
     public static void main(String[] args) {
-        // TODO code application logic here
         Scanner sc = new Scanner(System.in);
         int numero, count = 0;
         do {

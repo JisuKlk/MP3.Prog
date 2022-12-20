@@ -64,6 +64,7 @@ public class ActividadJava13 {
                     break;
                 case SALIR:
                     choice = SALIR;
+                    System.out.println(MSG3);
                     break;
             }
             System.out.println(MSG4 + choice);
